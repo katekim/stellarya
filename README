@@ -1,0 +1,12 @@
+Introduction
+============
+
+Stellarya is something like a bridge between Firefox and Python
+interpreter.  With Stellarya, you can easily call Python functions
+from JavaScript in Firefox.
+
+Stellarya is able to run on multiple architectures like Windows, Mac
+OS X and Unix-like.
+
+
+Copyright (C) 2012 Kenn Oshita

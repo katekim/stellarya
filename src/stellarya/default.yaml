@@ -1,0 +1,3 @@
+firefox_location: ""
+profile_name: "default"
+command_line: '%(firefox)s -no-remote -p "%(profile)s"'
